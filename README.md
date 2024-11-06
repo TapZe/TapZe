@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a YouTube Clone using Yii, a Catering Marketplace with Laravel, and an E-Commerce with React.<br>🌱 I’m actively learning React.js, TypeScript, and Golang.<br>⚡ Fun fact: I enjoy playing and developing games in my free time.
+🔭 I’m currently working on a YouTube Clone using Yii and an AI Video website darboard with React.<br>🌱 I’m actively learning React.js, TypeScript, and Golang.<br>⚡ Fun fact: I enjoy playing and developing games in my free time.
 
 
 ## 🌐 Socials:
