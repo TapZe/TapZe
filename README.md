@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a SSO Microservice using NestJs.<br>🌱 I’m actively learning React.js, TypeScript, and Golang.<br>⚡ Fun fact: I enjoy playing and developing games in my free time.
+🔭 I’m currently working on a SSO Microservice.<br>🌱 I’m actively learning React.js, Angular.js and TypeScript.<br>⚡ Fun fact: I enjoy playing and developing games in my free time.
 
 
 ## 🌐 Socials:
